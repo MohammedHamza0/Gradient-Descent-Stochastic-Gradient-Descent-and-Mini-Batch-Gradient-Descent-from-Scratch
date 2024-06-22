@@ -4,7 +4,7 @@
 
 This project showcases the implementation of three fundamental optimization algorithms used in machine learning from scratch: Gradient Descent, Stochastic Gradient Descent (SGD), and Mini-Batch Gradient Descent. The goal of this project is to provide a deep understanding of these techniques by building them step-by-step using Python.
 
-#Introduction
+## Introduction
 
 Gradient descent algorithms are essential for optimizing machine learning models. This project provides:
 
